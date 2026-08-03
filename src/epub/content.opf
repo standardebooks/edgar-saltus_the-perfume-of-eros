@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/edgar-saltus/the-perfume-of-eros</dc:identifier>
 		<dc:date>2026-07-09T19:34:45Z</dc:date>
@@ -44,13 +44,13 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2008107179</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">Two intertwined love triangles are thrown into turmoil when a body is found on a bench in Gramercy Park, New York.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Two intertwined love triangles are thrown into turmoil when a body is found on a bench in Gramercy Park, New York.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Fanny Price has long hoped that Royal Loftus, the heir to the wealthy Loftus family, would court her, but he refuses to commit himself. Fanny is ideal, he thinks, but too ambitious, “with a perfect mania for matrimony.” Instead, he turns his attention to the far less affluent Marie Durand, sweeping her off her feet and proposing to her without ever making good on his promise.&lt;/p&gt;
 			&lt;p&gt;Fanny, rather disappointed by this turn of events, marries Arthur Annandale on a whim; his engagement to her friend Sylvia Waldron has just been broken off, and the events that led to it are hazy in his mind. These two intertwined love triangles are thrown into turmoil when, one morning, a body is found on a bench in Gramercy Park.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Perfume of Eros&lt;/i&gt; caused a stir following the high-profile murder of famed architect Stanford White in 1906; according to the &lt;i&gt;San Francisco News Letter&lt;/i&gt;, there were remarkable similarities between the book and actual events. &lt;a href="https://standardebooks.org/ebooks/edgar-saltus"&gt;Saltus&lt;/a&gt; hastened to point out in a letter to the editor that the publication of &lt;i&gt;The Perfume of Eros&lt;/i&gt; preceded White’s murder by a year.&lt;/p&gt;
 			&lt;p&gt;Saltus would later take the central plot of &lt;i&gt;The Perfume of Eros&lt;/i&gt;, along with some of his short stories, and rework them into a novel titled &lt;i&gt;The Paliser Case&lt;/i&gt;. Standard Ebooks hosts this book instead of its very similar reworking.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/33207</dc:source>
 		<dc:source>https://archive.org/details/perfumeoferosfif00saltrich</dc:source>
